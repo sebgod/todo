@@ -9,6 +9,6 @@ todo
  * [ ] ftplugin
   * [ ] mercury.vim:
     * [ ] quick import/include/use_module: 
-    *  _should_ be able to select the right section, _should_ sort automatically, etc.
+          _should_ be able to select the right section, _should_ sort automatically, etc.
         
   
