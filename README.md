@@ -3,7 +3,7 @@ todo
 
  - [ ] Mercury compiler
   - [ ] module_cmds.m
-    - [ ] Line 577, it says Windows can't use error rediction, but see 
+    - [X] Line 577, it says Windows can't use error rediction, but see 
         [MS KB 110930](http://support.microsoft.com/kb/110930), which challanges that claim
    
  - [ ] ftplugin
